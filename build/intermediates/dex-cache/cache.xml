@@ -2,22 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\.android\build-cache\64500ab1d30f6d57fdbeac1ed803d8e2b819e901\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Lucas\Documents\GitHub\Prototipo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="C:\Users\Lucas\Prototipo\app\build\intermediates\pre-dexed\debug\classes_5038b206c3315f1f97e332f3e781e2f7b0c39923.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\.android\build-cache\74d1d40c744987a09e9cf782aeafaa48959951b6\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="C:\Users\Lucas\Prototipo\app\build\intermediates\pre-dexed\debug\classes_9c990f3153e2020ad06a1d38ddc9a4ba1e0c9cb4.jar" />
+        sha1="024ea8ccf0f7590e42ab10e032b542e8f87dcb2b">
+        <dex dex="C:\Users\Lucas\Documents\GitHub\Prototipo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ed8372c28af35d0316345d5fe36b83752e10337d\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -39,15 +30,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Lucas\.android\build-cache\8de8f89815194777c1968c90ad34bdc0c7c3376c\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="C:\Users\Lucas\Prototipo\app\build\intermediates\pre-dexed\debug\classes_5c1c49e3fc5dfc5b858829e15f546a593a312dfd.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
         jumboMode="false"
         optimize="true"
@@ -65,15 +47,6 @@
         <dex dex="C:\Users\Lucas\Prototipo\app\build\intermediates\pre-dexed\debug\classes_853e7d045b97096f2efd67396953ab55ce6acc8a.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\Prototipo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\Lucas\Prototipo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_47df0b544d791b338270c0c3a804d7dee171c67c\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Users\Lucas\.android\build-cache\8c6dc21f370e07037034e1343f65e26a01c4d44d\output\jars\classes.jar"
         jumboMode="false"
@@ -81,6 +54,51 @@
         revision="25.0.2"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
         <dex dex="C:\Users\Lucas\Prototipo\app\build\intermediates\pre-dexed\debug\classes_2f0add208b9875101bf550f6159ce70c0c25e7cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\64500ab1d30f6d57fdbeac1ed803d8e2b819e901\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Lucas\Prototipo\app\build\intermediates\pre-dexed\debug\classes_5038b206c3315f1f97e332f3e781e2f7b0c39923.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\74d1d40c744987a09e9cf782aeafaa48959951b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Lucas\Prototipo\app\build\intermediates\pre-dexed\debug\classes_9c990f3153e2020ad06a1d38ddc9a4ba1e0c9cb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\8de8f89815194777c1968c90ad34bdc0c7c3376c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Lucas\Prototipo\app\build\intermediates\pre-dexed\debug\classes_5c1c49e3fc5dfc5b858829e15f546a593a312dfd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\Documents\GitHub\Prototipo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Lucas\Documents\GitHub\Prototipo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_598e236565bb8ede7a3c29735d7584cea072a23c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\Prototipo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Lucas\Prototipo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_47df0b544d791b338270c0c3a804d7dee171c67c\classes.dex" />
     </item>
     <item
         is-multidex="false"
